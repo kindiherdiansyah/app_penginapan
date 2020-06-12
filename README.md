@@ -54,6 +54,8 @@ vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
 Sistem Informasi Manajemen Pariwisata
+Create by Fadil dan Kindi Tugas Proyek 2
+
 ![home](https://user-images.githubusercontent.com/26849052/84464426-a8801d00-ac9e-11ea-823f-98e9b8c6d692.JPG)
 ![cek pesan](https://user-images.githubusercontent.com/26849052/84464421-a5852c80-ac9e-11ea-8452-f618c4927243.JPG)
 ![cek](https://user-images.githubusercontent.com/26849052/84464423-a74ef000-ac9e-11ea-8518-ab5c2acf3a80.JPG)
