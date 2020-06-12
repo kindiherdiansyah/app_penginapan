@@ -53,7 +53,8 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
-Sistem Informasi Manajemen Pariwisata
+Aplikasi Pemesanan Penginapan
+
 Create by Fadil dan Kindi Tugas Proyek 2
 
 ![home](https://user-images.githubusercontent.com/26849052/84464426-a8801d00-ac9e-11ea-823f-98e9b8c6d692.JPG)
